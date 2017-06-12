@@ -1,6 +1,7 @@
 # JioMusic-API
 
 API HOST:https://beatsapi.media.jio.com
+
 imageurl: https://jioimages.cdn.jio.com/hdindiamusic/images/
 
 # Song List :
