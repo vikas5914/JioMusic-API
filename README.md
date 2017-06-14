@@ -10,7 +10,8 @@ GET: /v2_1/beats-api/jio/src/response/home/english
 
 ## Single Song Details 
 
-GET: http://beatsapi.media.jio.com/v2_1/beats-api/jio/src/response/songdetails/{song_id
+GET: http://beatsapi.media.jio.com/v2_1/beats-api/jio/src/response/songdetails/{song_id}
+
 Example: http://beatsapi.media.jio.com/v2_1/beats-api/jio/src/response/songdetails/713_712784_1
 
 ## Listen Song
