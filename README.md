@@ -65,3 +65,9 @@ Note: Radio list is not complete.
 ---
 
 Require a proxy for CORS (for Web Only)
+
+---
+
+## Legal
+
+This code is in no way affiliated with, authorized, maintained, sponsored or endorsed by Jio or any of its affiliates or subsidiaries. This is an independent and unofficial API. Use at your own risk.
