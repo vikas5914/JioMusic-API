@@ -26,6 +26,22 @@ GET: http://jiobeats.cdn.jio.com/mod/_definst_/mp4:hdindiamusic/audiofiles/717/7
 
 Example: http://jiobeats.cdn.jio.com/mod/_definst_/mp4:hdindiamusic/audiofiles/717/716180/717_716180_1_320.mp4/playlist.m3u8
 
+# Search 
+
+## Autocomplete 
+
+GET: http://beatsapi.media.jio.com/v2_1/beats-api/jio/src/response/autocomplete/{name}
+
+Example: http://beatsapi.media.jio.com/v2_1/beats-api/jio/src/response/autocomplete/Linkin+park
+
+## Search 
+
+GET: http://beatsapi.media.jio.com/v2_1/beats-api/jio/src/response/search2/{name}/{language (optional)}
+
+Example: http://beatsapi.media.jio.com/v2_1/beats-api/jio/src/response/search2/linkin+park/
+
+Example: http://beatsapi.media.jio.com/v2_1/beats-api/jio/src/response/search2/linkin+park/english
+
 # Album List :
 
 GET: http://beatsapi.media.jio.com/v2_1/beats-api/jio/src/response/albumsongs/albumid/{album_id}
